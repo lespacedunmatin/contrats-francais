@@ -1,10 +1,10 @@
 # Conditions Générales de vente de _NomSociété_ Applicables à compter du 1er  janvier 2011
 
 
-ENTRE LES SOUSSIGNES 
+ENTRE LES SOUSSIGNÉS  
 
 _NomSociété_, Entreprise Unipersonnelle à Responsabilité Limitée au capital de
-1500 €, enregistrée au RCS de Paris sous n° _RCS_, dont le siège social est
+1500 €, enregistrée au RCS de _VilleEnregistrmentRCS_ sous n° _RCS_, dont le siège social est
 sis _ADRESSE_, représentée aux fins des présentes par _GÉRANT_ en qualité de
 gérant,
 
@@ -53,11 +53,11 @@ de cas simples et factuels.
 Correction : Toute correction d’erreur sur le Livrable, n’ayant pas d’autre
 finalité que de corriger des dysfonctionnements ou des erreurs.
 
-Elément apporté : contenu de toute nature (codes, textes, images, sons…)
+Élément apporté : contenu de toute nature (codes, textes, images, sons…)
 inséré dans le Livrable, soit par _NomSociété_ à la demande du Client, soit
 par le Client lui-même.
 
-Evolution : Toute modification, évolution, adaptation, adjonction,
+Évolution : Toute modification, évolution, adaptation, adjonction,
 suppression, traduction, nouvelle version, ne constituant pas une simple
 Correction.
 
@@ -179,7 +179,7 @@ un Livrable. Dans un délai de 1 semaine à compter de la livraison, le Client
 valide le Livrable ou émet des réserves sur celui-ci.
 
 Si le Client émet des réserves dans le délai précité, _NomSociété_ procèdera
-aux Corrections du Livrable, à l’exclusion de toute Evolution.
+aux Corrections du Livrable, à l’exclusion de toute Évolution.
 
 Si le Client n'a émis aucune réserve dans le délai précité, le Livrable soumis
 au Client est considéré comme étant tacitement réceptionnée par celui-ci.
@@ -192,10 +192,10 @@ au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 _NomSociété_ n’est pas responsable des dommages que l'installation du Livrable
 pourrait causer aux serveurs et matériels informatiques du Client.
 
-Dans l’hypothèse où le Client réaliserait lui-même une Evolution ou en
+Dans l’hypothèse où le Client réaliserait lui-même une Évolution ou en
 confirait la réalisation à un tiers, _NomSociété_ ne sera plus en mesure de
 prendre en charge les Corrections du Livrable. _NomSociété_ exclut par
-ailleurs toute responsabilité au titre des Evolutions apportées par le Client
+ailleurs toute responsabilité au titre des Évolutions apportées par le Client
 ou un tiers au Livrable.
 
 La réception du Livrable par le Client couvre les défauts de conformité
@@ -265,7 +265,7 @@ l’existence matérielle des droits cédés.
 Le Client déclare être titulaire de tous les droits et autorisations
 permettant l'utilisation des Eléments apportés aux fins des présentes. Il
 garantit _NomSociété_ contre toute action et revendication de tiers du fait
-des Eléments apportés.
+des Éléments apportés.
 
 
 ## Article 9. Propriété intellectuelle 
@@ -275,7 +275,7 @@ Le Livrable est composé le cas échéant :
 
 * d’un framework : composant logiciel structurel, définissant les fondations
   du Livrable. Le framework est placé sous licence spécifique. Le Client est
-  investi des droits sur le framework conformément à cette licence spécifique.
+  investi des droits sur le framework conformément à cette licence spécifique ;
 
 * des développements spécifiques : contenus réalisés spécifiquement par
   _NomSociété_ pour le Client dans le cadre de la méthode Agile. Le Client est
@@ -323,7 +323,7 @@ _GÉRANT_, auteur originaire du Logiciel, devra être associé au Livrable au
 cours de son exploitation. S’il s’agit d’un site web, le nom de _GÉRANT_
 apparaîtra :
 
-sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
+sur une page appelé « Crédits », « Informations légales » ou « Mentions légales
 » accessible depuis la page d'accueil du site et comportant un lien hypertexte
 vers www._NomSociété_.com ;
 
@@ -342,7 +342,7 @@ pour exercer les actions en contrefaçon et concurrence déloyale relatives aux
 exploitations non autorisées des développements spécifiques.
 
 
-## Article 10. Evolution - Maintenance
+## Article 10. Évolution – Maintenance
 
 _NomSociété_ autorise le Client à effectuer lui-même des Evolutions du
 Livrable et à en assurer la maintenance.
@@ -356,7 +356,7 @@ aux termes du présent contrat.
 
 ## Article 11. Prix et modalités de paiement 
 
-### 12.1. Prix
+### 11.1. Prix
 
 Le taux horaire ou journalier est celui convenu dans les Conditions
 particulières.
@@ -364,17 +364,17 @@ particulières.
 A défaut de stipulation contraire dans les Conditions particulières, le
 paiement interviendra avant le commencement de chacune des Itérations
 
-### 12.2. Rabais – Remise - Ristourne
+### 11.2. Rabais – Remise – Ristourne
 
 Sauf accord exprès des Parties, aucun rabais, remise, ristourne ou escompte ne
 sera accordé au Client.
 
-### 12.3. Intérêts en cas de retard 
+### 11.3. Intérêts en cas de retard 
 
 En cas de non-paiement à son échéance, toute somme due portera automatiquement
 intérêt conformément aux dispositions légales en vigueur.
 
-### 12.4. Rémunération supplémentaire 
+### 11.4. Rémunération supplémentaire 
 
 En cas de demandes de la part du Client entrainant une charge de travail
 supplémentaire pour _NomSociété_, les parties conviendront, avant toute
@@ -382,7 +382,7 @@ modification du Plan de travail ou du Cahier des charges, du versement d'une
 somme supplémentaire au profit de _NomSociété_.
 
 
-## Article 13. Références
+## Article 12. Références
 
 Sauf interdiction expresse du Client dans un délai d'un mois à compter de la
 réception du Livrable, _NomSociété_ est autorisé à utiliser le nom du Client,
@@ -390,7 +390,7 @@ ainsi que l’image de la page d’accueil du Livrable, dans le cadre de sa
 promotion commerciale et publicitaire.
 
 
-## Article 14. Réserve de propriété
+## Article 13. Réserve de propriété
 
 _NomSociété_ se réserve expressément la propriété du Livrable jusqu'au
 paiement intégral de son prix en principal et intérêts. Le Client en deviendra
@@ -398,7 +398,7 @@ toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
 
 
-## Article 15. Non-sollicitation 
+## Article 14. Non-sollicitation 
 
 Afin de garantir l'équilibre économique du Contrat, le Client s'engage à ne
 pas embaucher, tenter d'embaucher ou faire travailler directement ou
@@ -412,7 +412,7 @@ auxquels pourrait prétendre _NomSociété_, une somme égale à la rémunérati
 _NomSociété_ stipulée dans les Conditions particulières.
 
 
-## Article 16. Résiliation 
+## Article 15. Résiliation 
 
 En cas de manquement grave de l'une ou l'autre des parties aux obligations du
 présent contrat non réparé dans un délai de 15 jours à compter de la
@@ -426,7 +426,7 @@ saurait être interprété pour l'avenir comme une renonciation à l'obligation 
 cause.
 
 
-## Article 17. Loi applicable et juridiction compétente 
+## Article 16. Loi applicable et juridiction compétente 
 
 Le présent contrat est soumis à la loi française. 
 
